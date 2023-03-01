@@ -1,7 +1,7 @@
 ```js
 class berto{
   constructor(...options) {
-    this.height = "1.80"
+    this.height = "1.81"
     this.weight = "70"
     this.type = "human"
     this.job = "student"
